@@ -192,4 +192,19 @@ Laundry-New/
 
 ---
 
-Built with ❤️ using modern web technologies for a premium laundry management experience.
+Built with ❤️ using modern web technologies for a premium coffee shop management experience.
+
+## Branching & PR Policy
+
+This repository follows a simple Git workflow required for the course:
+
+- `master` — protected production branch. Only the group leader merges `development` -> `master`.
+- `development` — active integration branch for ongoing work. All feature branches are merged here via Pull Request (PR).
+
+Rules:
+- Do not push directly to `development` or `master`.
+- Implement features on `feature/*` branches created from `development`.
+- Open a PR to merge feature branches into `development`. Request at least one review.
+- When ready for release, open a PR from `development` into `master` and let the group leader merge.
+
+See `CONTRIBUTING.md` for detailed instructions about PRs, commit message recommendations, and local setup.
