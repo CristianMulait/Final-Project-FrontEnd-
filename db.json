@@ -1,0 +1,76 @@
+{
+  "orders": [
+    {
+      "id": "c5vqcnjra",
+      "name": "jovi",
+      "phone": "123",
+      "notes": "",
+      "quantity": "1 cup",
+      "service": "Espresso",
+      "type": "Single Shot",
+      "price": "18000/cup",
+      "total": 18000,
+      "status": "Selesai"
+    },
+    {
+      "id": "64ud5t3ma",
+      "name": "jj",
+      "phone": "11",
+      "notes": "",
+      "quantity": "1 cup",
+      "service": "Americano",
+      "type": "Regular",
+      "price": "20000/cup",
+      "total": 20000,
+      "status": "Selesai"
+    },
+    {
+      "id": "aus7wg5mr",
+      "name": "nait",
+      "phone": "23",
+      "notes": "",
+      "quantity": "1 cup",
+      "service": "Espresso",
+      "type": "Double Shot",
+      "price": "25000/cup",
+      "total": 25000,
+      "status": "Selesai"
+    },
+    {
+      "id": "a7n459pch",
+      "name": "jie",
+      "phone": "55",
+      "notes": "",
+      "quantity": "3 cup",
+      "service": "Espresso",
+      "type": "Triple Shot",
+      "price": "32000/cup",
+      "total": 96000,
+      "status": "Selesai"
+    },
+    {
+      "id": "cya5gi5lf",
+      "name": "yap",
+      "phone": "77",
+      "notes": "tambhakan es batu",
+      "quantity": "3 cup",
+      "service": "Espresso",
+      "type": "Double Shot",
+      "price": "25000/cup",
+      "total": 75000,
+      "status": "Selesai"
+    },
+    {
+      "id": "skzqh4dg2",
+      "name": "gg",
+      "phone": "33",
+      "notes": "dingin ya",
+      "quantity": "1 cup",
+      "service": "Espresso",
+      "type": "Single Shot",
+      "price": "18000/cup",
+      "total": 18000,
+      "status": "Selesai"
+    }
+  ]
+}

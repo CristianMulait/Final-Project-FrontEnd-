@@ -1,0 +1,42 @@
+{
+  "name": "coffee-shop",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "json-server": "json-server --watch db.json --port 3001",
+    "server": "json-server --watch db.json --port 3000 --host 127.0.0.1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.554.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.30.2",
+    "recharts": "^3.5.0",
+    "sweetalert2": "^11.26.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.22",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "json-server": "^0.17.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^4.5.14"
+  },
+  "description": "A modern, premium coffee shop management web application built with Vite, React, and Tailwind CSS featuring a clean, minimalistic, and futuristic design.",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
